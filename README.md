@@ -1,6 +1,6 @@
 ![bewise.ai](https://hh.ru/employer-logo/4269037.jpeg)
 <div id="header" align="left">
-  <img src="https://robotdreams.cc/ckeditor/blog/191-10-knig-o-python/pic1.gif" width="250"/>
+  <img src="https://robotdreams.cc/ckeditor/blog/191-10-knig-o-python/pic1.gif" width="240"/>
 </div>
 
 # Тестовое задание для bewise.ai
