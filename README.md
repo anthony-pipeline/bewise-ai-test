@@ -25,4 +25,3 @@
 
 IPython Notebook также доступен в Google Colab: [bewise-ai-nlp.ipynb](https://colab.research.google.com/drive/168wX9YmeviBMzazl3osCgHCvLAkMq3RN?usp=sharing)
 
-## Буду благодарен любой обратной связи !
